@@ -1,0 +1,2 @@
+value object
+值对象 ServerResponse的data封装
